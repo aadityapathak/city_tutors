@@ -1,6 +1,7 @@
 <?php
 
-#main web site
+// main web site
+echo 'my name is govind';
 
 ?>
 
